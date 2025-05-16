@@ -34,3 +34,4 @@ c:\Users\Esteban\Desktop\TestProjects\TestMicroservices\Service2\obj\Debug\net9.
 c:\Users\Esteban\Desktop\TestProjects\TestMicroservices\Service2\obj\Debug\net9.0\Service2.pdb
 C:\Users\Esteban\Desktop\TestProjects\TestMicroservices\Service2\obj\Debug\net9.0\Service2.genruntimeconfig.cache
 C:\Users\Esteban\Desktop\TestProjects\TestMicroservices\Service2\obj\Debug\net9.0\ref\Service2.dll
+c:\Users\Esteban\Desktop\TestProjects\TestMicroservices\Service2\obj\Debug\net9.0\Service2.sourcelink.json

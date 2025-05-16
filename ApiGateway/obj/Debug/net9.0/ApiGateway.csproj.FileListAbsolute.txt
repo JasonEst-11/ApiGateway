@@ -42,3 +42,4 @@ c:\Users\Esteban\Desktop\TestProjects\TestMicroservices\ApiGateway\obj\Debug\net
 c:\Users\Esteban\Desktop\TestProjects\TestMicroservices\ApiGateway\obj\Debug\net9.0\ApiGateway.pdb
 C:\Users\Esteban\Desktop\TestProjects\TestMicroservices\ApiGateway\obj\Debug\net9.0\ApiGateway.genruntimeconfig.cache
 C:\Users\Esteban\Desktop\TestProjects\TestMicroservices\ApiGateway\obj\Debug\net9.0\ref\ApiGateway.dll
+c:\Users\Esteban\Desktop\TestProjects\TestMicroservices\ApiGateway\obj\Debug\net9.0\ApiGateway.sourcelink.json

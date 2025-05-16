@@ -34,3 +34,4 @@ C:\Users\Esteban\Desktop\TestProjects\TestMicroservices\Service1\obj\Debug\net9.
 c:\Users\Esteban\Desktop\TestProjects\TestMicroservices\Service1\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
 c:\Users\Esteban\Desktop\TestProjects\TestMicroservices\Service1\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 c:\Users\Esteban\Desktop\TestProjects\TestMicroservices\Service1\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+c:\Users\Esteban\Desktop\TestProjects\TestMicroservices\Service1\obj\Debug\net9.0\Service1.sourcelink.json
